@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💼 Chartered Accountant with a strong foundation in numbers, KPIs, and financial modeling.<br>💻 Coder experienced in Python,Javascript for automation, web development, and algorithmic trading.<br>📈 Investor & Startup Analyst with expertise in valuation and market analysis.<br>🔧 Passionate about building software solutions that streamline processes and enhance decision-making<br>🤝 Open to collaboration on tech-driven finance projects and innovative software development.
+👨‍💼 Chartered Accountant with a strong foundation in numbers, KPIs, and financial modeling.<br>💻 Coder experienced in Python,Javascript for automation, web development, and algorithmic trading.<br>🔧 Passionate about building software solutions that streamline processes and enhance decision-making<br>🤝 Open to collaboration on tech-driven finance projects and innovative software development.
 
 
 ## 🌐 Socials:
