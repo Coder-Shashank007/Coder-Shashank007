@@ -14,7 +14,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-%2300A3E0.svg?style=for-the-badge&logo=tradingview&logoColor=white) 
 ![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
-### FRONTEND
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
@@ -22,7 +22,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
  <br/>
- ### BACKEND
+ #### Backend
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -30,13 +30,13 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  <br/>
- ### DATABASE & API
+ #### Database & Api
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) 
 ![REST](https://img.shields.io/badge/REST-%238F8F8F.svg?style=for-the-badge&logo=rest&logoColor=white) 
 <br/>
-### DEVOPS
+#### DevOps
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
