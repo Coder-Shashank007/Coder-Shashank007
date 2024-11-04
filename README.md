@@ -5,6 +5,10 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwshashank) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nw_shashank) 
 
+# 🖥️ Programming Languages:
+![Python](https://img.shields.io/badge/Python-%2338B2E1.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+
 ## 🛠️ Scripting & Command Line Tech Stack:
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-%23000.svg?style=for-the-badge&logo=windows&logoColor=white) ![Pine Script](https://img.shields.io/badge/Pine%20Script-%2300A3E0.svg?style=for-the-badge&logo=tradingview&logoColor=white) ![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
 
