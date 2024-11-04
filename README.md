@@ -19,9 +19,17 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-%E0232A.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%E0232A.svg?style=for-the-badge&logo=nestjs&logoColor=white) <br/>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2338B2E1.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwshashank&theme=blue-green&hide_border=false)<br/>
