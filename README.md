@@ -32,7 +32,8 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) 
+![REST](https://img.shields.io/badge/REST-%238F8F8F.svg?style=for-the-badge&logo=rest&logoColor=white) 
 <br/>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
