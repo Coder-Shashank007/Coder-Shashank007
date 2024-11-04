@@ -6,7 +6,21 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwshashank) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nw_shashank) 
 
 # 💻 Tech Stack:
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-%23000.svg?style=for-the-badge&logo=windows&logoColor=white) ![Pine Script](https://img.shields.io/badge/Pine%20Script-%2300A3E0.svg?style=for-the-badge&logo=tradingview&logoColor=white) ![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white) <br/>
+
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![Command Prompt](https://img.shields.io/badge/Command%20Prompt-%23000.svg?style=for-the-badge&logo=windows&logoColor=white) 
+![Pine Script](https://img.shields.io/badge/Pine%20Script-%2300A3E0.svg?style=for-the-badge&logo=tradingview&logoColor=white) 
+![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white) <br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-%E0232A.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -34,3 +48,7 @@ A collection of command line tools and scripting languages I work with:
 [![](https://visitcount.itsvg.in/api?id=e&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
