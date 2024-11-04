@@ -11,7 +11,8 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-%23000.svg?style=for-the-badge&logo=windows&logoColor=white) 
 ![Pine Script](https://img.shields.io/badge/Pine%20Script-%2300A3E0.svg?style=for-the-badge&logo=tradingview&logoColor=white) 
-![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white) <br/>
+![Batch Script](https://img.shields.io/badge/Batch%20Script-%23307B9A.svg?style=for-the-badge&logo=windows&logoColor=white)
+<br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -19,13 +20,32 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-%E0232A.svg?style=for-the-badge&logo=nestjs&logoColor=white) <br/>
+ <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%2338B2E1.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ <br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+
+ <br/>
+# 🔧 DevOps Tech Stack:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+
+ 
 
 
 
@@ -56,7 +76,6 @@ A collection of command line tools and scripting languages I work with:
 [![](https://visitcount.itsvg.in/api?id=e&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
