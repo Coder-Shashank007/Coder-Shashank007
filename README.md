@@ -7,7 +7,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 
 # 💻 Tech Stack:
 
-### Scripting Languages
+#### Scripting Languages
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Command Prompt](https://img.shields.io/badge/Command%20Prompt-%23000.svg?style=for-the-badge&logo=windows&logoColor=white) 
