@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💼 Chartered Accountant with a strong foundation in numbers, KPIs, and financial modeling.<br>💻 Coder experienced in Python, C++, and React for automation, web development, and algorithmic trading.<br>📈 Investor & Startup Analyst with expertise in valuation and market analysis.<br>⚡ High-Frequency Trader (HFT), focusing on algorithmic trading strategies for fast, efficient market executions.<br>🔧 Passionate about building software solutions that streamline processes and enhance decision-making.<br>🤝 Open to collaboration on tech-driven finance projects and innovative software development.
+👨‍💼 Chartered Accountant with a strong foundation in numbers, KPIs, and financial modeling.<br>💻 Coder experienced in Python,Javascript for automation, web development, and algorithmic trading.<br>📈 Investor & Startup Analyst with expertise in valuation and market analysis.<br>.<br>🔧 Passionate about building software solutions that streamline processes and enhance decision-making.<br>🤝 Open to collaboration on tech-driven finance projects and innovative software development.
 
 
 ## 🌐 Socials:
