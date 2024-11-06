@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=nwshashank&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and technology 💻✨.<br>With a strong foundation in finance and numbers, I love applying my analytical skills 🔍 to solve <br>real-world problems through programming 🛠️.<br/>
 
@@ -33,7 +34,7 @@ FIND ME: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nwshashank&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
