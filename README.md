@@ -29,7 +29,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwshashank&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
