@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and technology 💻✨.<br>With a strong foundation in finance and numbers, I love applying my analytical skills 🔍 to solve <br>real-world problems through programming 🛠️.<br/>
 
-Tools i make
+## 🛠️ Tools I make:
 - Indicator on Trading View
 - Office Helping Tools
 - Trading Stratergies On Python
