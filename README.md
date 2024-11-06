@@ -8,10 +8,6 @@ FIND ME: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=l
 - Office Helping Tools
 - Trading Stratergies On Python
 
-
-## 🌐 Socials:
-
-
 # 💻 Tech Stack:
 
 #### Scripting Languages
@@ -32,13 +28,6 @@ FIND ME: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=l
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-
-
-
- 
-
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
