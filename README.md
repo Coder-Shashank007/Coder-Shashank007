@@ -19,7 +19,6 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%2338B2E1.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![REST](https://img.shields.io/badge/REST-%238F8F8F.svg?style=for-the-badge&logo=rest&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
