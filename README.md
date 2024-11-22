@@ -1,13 +1,6 @@
 # 💫 About Me:
 Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and technology 💻✨.<br>With a strong foundation in finance and numbers, I love applying my analytical skills 🔍 to solve <br>real-world problems through programming 🛠️.<br/>
 
-
-
-## 🛠️ Tools I make:
-- Indicator on Trading View
-- Office Helping Tools
-- Trading Stratergies On Python
-
 # 💻 Tech Stack:
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) 
