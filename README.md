@@ -1,4 +1,4 @@
-![Find Me](https://img.shields.io/badge/Find-Me-%23007FFF.svg?style=for-the-badge&logo=Find-Me&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwshashank) [![My Website](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nw_shashank) 
+![Find Me](https://img.shields.io/badge/Find-Me-%23007FFF.svg?style=for-the-badge&logo=Find-Me&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwshashank) [![My Website](https://img.shields.io/badge/My Website-black.svg?logo=X&logoColor=white)](https://x.com/nw_shashank) 
 # 💫 About Me:
 Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and technology 💻✨.<br>With a strong foundation in finance and numbers, I love applying my analytical skills 🔍 to solve <br>real-world problems through programming 🛠️.<br/>
 
