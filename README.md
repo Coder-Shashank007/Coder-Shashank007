@@ -3,7 +3,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nwshashank) 
-[![My Website](https://img.shields.io/badge/My%20Website-%2300FF00?logo=web&logoColor=black&color=%2300FF00)](https://nwshashank.netlify.app/)
+[![My Website](https://img.shields.io/badge/My%20Website-%2300FF00?logo=web&logoColor=black&color=%2300FF00)](https://shashank123.netlify.app/)
 
 
 
