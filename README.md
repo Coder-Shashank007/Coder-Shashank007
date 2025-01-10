@@ -6,6 +6,11 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
   <a href="https://www.linkedin.com/in/shashanknakhate/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/shashanknakhate/">
+  <img src="https://img.shields.io/badge/Substack-FF6F61?style=for-the-badge&logo=substack&logoColor=white"/>
+  </a>
+  
 </div>
 <img src="https://komarev.com/ghpvc/?username=nwshashank&style=for-the-badge&color=C55AA4" alt=""/>
 </div>
