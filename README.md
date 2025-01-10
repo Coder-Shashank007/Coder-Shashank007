@@ -25,7 +25,7 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 <img alt="Portfolio Badge" src="https://img.shields.io/badge/website-8F4FA0?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=KamiyaGaikwad&style=for-the-badge&color=C55AA4" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nwshashank&style=for-the-badge&color=C55AA4" alt=""/>
 </div>
 
 
