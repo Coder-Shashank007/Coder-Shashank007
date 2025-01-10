@@ -63,6 +63,16 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 ![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nwshashank&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwshashank&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwshashank&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nwshashank&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
