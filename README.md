@@ -12,21 +12,24 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
-   <a href="https://www.linkedin.com/in/shashanknakhate/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://substack.com/@nwshashank">
+  <img src="https://img.shields.io/badge/Substack-FF6F61?style=for-the-badge&logo=substack&logoColor=white"/>
   </a>
 
    <a href="https://www.linkedin.com/in/shashanknakhate/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
+
+   <a href="https://www.instagram.com/nw_shashank/?hl=en/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/shashanknakhate/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shashanknakhate/">
-  <img src="https://img.shields.io/badge/Substack-FF6F61?style=for-the-badge&logo=substack&logoColor=white"/>
-  </a>
+ 
   
 </div>
 <img src="https://komarev.com/ghpvc/?username=nwshashank&style=for-the-badge&color=C55AA4" alt=""/>
