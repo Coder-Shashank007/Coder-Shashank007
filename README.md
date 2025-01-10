@@ -7,6 +7,18 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
    <a href="https://nwshashank.netlify.app/">
   <img src="https://img.shields.io/badge/MyWebsite-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
   </a>
+
+   <a href="https://x.com/Nw_Shashank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+   <a href="https://www.linkedin.com/in/shashanknakhate/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+   <a href="https://www.linkedin.com/in/shashanknakhate/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
   <a href="https://www.linkedin.com/in/shashanknakhate/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
