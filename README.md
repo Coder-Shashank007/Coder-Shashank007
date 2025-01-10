@@ -29,6 +29,10 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+  <a href="https://stackoverflow.com/users/27684173/nw-shashank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+
  
   
 </div>
