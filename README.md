@@ -33,18 +33,6 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 
- 
-  
-</div>
-<img src="https://komarev.com/ghpvc/?username=nwshashank&style=for-the-badge&color=C55AA4" alt=""/>
-</div>
-
-
-
-
-
-
-
 # 💻 Tech Stack:
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%23323330.svg?style=for-the-badge&logo=powershell&logoColor=white) 
@@ -70,6 +58,11 @@ Hello! I’m Shashank, a Chartered Accountant 📊 with a passion for coding and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nwshashank&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+<img src="https://komarev.com/ghpvc/?username=nwshashank&style=for-the-badge&color=C55AA4" alt=""/>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
